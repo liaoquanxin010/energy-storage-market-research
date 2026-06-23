@@ -1,0 +1,9 @@
+interface:
+  display_name: "Foreign Trade Industry Researcher"
+  short_description: "Research export markets with evidence gates"
+  brand_color: "#1F4E79"
+  default_prompt: "Use $foreign-trade-industry-researcher to build a source-backed industry landscape for my product and target market."
+
+policy:
+  allow_implicit_invocation: true
+
