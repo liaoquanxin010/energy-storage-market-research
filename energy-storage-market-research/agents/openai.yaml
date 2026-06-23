@@ -1,0 +1,4 @@
+interface:
+  display_name: "储能国别市场调研"
+  short_description: "Country research for storage, PV, and inverters"
+  default_prompt: "Use $energy-storage-market-research to assess the energy-storage, PV, and inverter market in a target country."
